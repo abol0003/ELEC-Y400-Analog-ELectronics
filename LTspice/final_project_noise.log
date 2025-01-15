@@ -1,0 +1,42 @@
+LTspice 24.0.12 for Windows
+Circuit: * C:\Users\alexb\OneDrive\Bureau\MA1\ELEC-Y400\Projet\LTspice\final_project_noise.asc
+Start Time: Tue Jan 14 21:14:07 2025
+solver = Normal
+Maximum thread count: 20
+tnom = 27
+temp = 27
+method = modified trap
+Warning: No WPE as none of SCA, SCB, SCC, SC is given and/or SC not positive.
+Warning: LTspice uses BSIM4 version 4.6.1. Your model specified an unrecognized version number: 4.5000e+00
+Warning: No WPE as none of SCA, SCB, SCC, SC is given and/or SC not positive.
+Warning: LTspice uses BSIM4 version 4.6.1. Your model specified an unrecognized version number: 4.5000e+00
+Warning: No WPE as none of SCA, SCB, SCC, SC is given and/or SC not positive.
+Warning: LTspice uses BSIM4 version 4.6.1. Your model specified an unrecognized version number: 4.5000e+00
+Warning: No WPE as none of SCA, SCB, SCC, SC is given and/or SC not positive.
+Warning: LTspice uses BSIM4 version 4.6.1. Your model specified an unrecognized version number: 4.5000e+00
+Warning: No WPE as none of SCA, SCB, SCC, SC is given and/or SC not positive.
+Warning: LTspice uses BSIM4 version 4.6.1. Your model specified an unrecognized version number: 4.5000e+00
+Warning: No WPE as none of SCA, SCB, SCC, SC is given and/or SC not positive.
+Warning: LTspice uses BSIM4 version 4.6.1. Your model specified an unrecognized version number: 4.5000e+00
+Warning:  Acde = 0.0146993 is too small.
+Warning: No WPE as none of SCA, SCB, SCC, SC is given and/or SC not positive.
+Warning: LTspice uses BSIM4 version 4.6.1. Your model specified an unrecognized version number: 4.5000e+00
+Warning:  Acde = 0.0146993 is too small.
+Warning: No WPE as none of SCA, SCB, SCC, SC is given and/or SC not positive.
+Warning: LTspice uses BSIM4 version 4.6.1. Your model specified an unrecognized version number: 4.5000e+00
+Warning:  Acde = 0.0146993 is too small.
+Direct Newton iteration for .op point succeeded.
+
+out_totnvrms: INTEG(v(onoise))=0.00107756 FROM 10000 TO 1.8e+10
+out_mp1nvrms: INTEG(v(mp1))=0.000577645 FROM 10000 TO 1.8e+10
+out_mp2nvrms: INTEG(v(mp2))=0.000578759 FROM 10000 TO 1.8e+10
+out_mp7nvrms: INTEG(v(mp7))=2.44392e-05 FROM 10000 TO 1.8e+10
+out_mp8nvrms: INTEG(v(mp8))=1.04999e-05 FROM 10000 TO 1.8e+10
+out_mp5nvrms: INTEG(v(mp5))=1.93406e-05 FROM 10000 TO 1.8e+10
+out_mn6nvrms: INTEG(v(mn6))=3.84122e-05 FROM 10000 TO 1.8e+10
+out_mn4nvrms: INTEG(v(mn4))=0.000512417 FROM 10000 TO 1.8e+10
+out_mn3nvrms: INTEG(v(mn3))=0.000475102 FROM 10000 TO 1.8e+10
+out_rmnvrms: INTEG(v(rm))=4.0465e-05 FROM 10000 TO 1.8e+10
+
+Total elapsed time: 0.267 seconds.
+

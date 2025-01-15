@@ -1,0 +1,56 @@
+Circuit: * C:\Users\arnoh\Dropbox\Documenten\School\VUB\PhD\2022-2023\Analog Electronics\AE_2023\Final_Project\LTSpice\final_project_pss.asc
+
+Warning: No WPE as none of SCA, SCB, SCC, SC is given and/or SC not positive.
+Warning: LTspice uses BSIM4 version 4.6.1. Your model specified an unrecognized version number: 4.5000e+00
+Warning:  Acde = 0.0146993 is too small.
+Warning: No WPE as none of SCA, SCB, SCC, SC is given and/or SC not positive.
+Warning: LTspice uses BSIM4 version 4.6.1. Your model specified an unrecognized version number: 4.5000e+00
+Warning:  Acde = 0.0146993 is too small.
+Warning: No WPE as none of SCA, SCB, SCC, SC is given and/or SC not positive.
+Warning: LTspice uses BSIM4 version 4.6.1. Your model specified an unrecognized version number: 4.5000e+00
+Warning:  Acde = 0.0146993 is too small.
+Warning: No WPE as none of SCA, SCB, SCC, SC is given and/or SC not positive.
+Warning: LTspice uses BSIM4 version 4.6.1. Your model specified an unrecognized version number: 4.5000e+00
+Warning: No WPE as none of SCA, SCB, SCC, SC is given and/or SC not positive.
+Warning: LTspice uses BSIM4 version 4.6.1. Your model specified an unrecognized version number: 4.5000e+00
+Warning: No WPE as none of SCA, SCB, SCC, SC is given and/or SC not positive.
+Warning: LTspice uses BSIM4 version 4.6.1. Your model specified an unrecognized version number: 4.5000e+00
+Warning: No WPE as none of SCA, SCB, SCC, SC is given and/or SC not positive.
+Warning: LTspice uses BSIM4 version 4.6.1. Your model specified an unrecognized version number: 4.5000e+00
+Warning: No WPE as none of SCA, SCB, SCC, SC is given and/or SC not positive.
+Warning: LTspice uses BSIM4 version 4.6.1. Your model specified an unrecognized version number: 4.5000e+00
+Direct Newton iteration for .op point succeeded.
+.step amp=1e-006
+.step amp=2.15443e-006
+.step amp=4.64159e-006
+.step amp=1e-005
+.step amp=2.15443e-005
+.step amp=4.64159e-005
+.step amp=0.0001
+.step amp=0.000215443
+.step amp=0.000464159
+.step amp=0.001
+.step amp=0.00215443
+.step amp=0.00464159
+.step amp=0.01
+.step amp=0.0215443
+.step amp=0.0464159
+.step amp=0.1
+
+Date: Thu Nov 30 23:47:18 2023
+Total elapsed time: 6.058 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 53691
+traniter = 53682
+tranpoints = 25887
+accept = 15314
+rejected = 10573
+matrix size = 30
+fillins = 14
+solver = Normal
+Matrix Compiler1:     158 opcodes  0.6/[0.2]/0.2
+Matrix Compiler2: off  [0.2]/0.3/0.2
+

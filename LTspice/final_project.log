@@ -1,0 +1,61 @@
+LTspice 24.0.12 for Windows
+Circuit: * C:\Users\alexb\OneDrive\Bureau\MA1\ELEC-Y400\Projet\LTspice\final_project.asc
+Start Time: Tue Jan 14 22:00:51 2025
+solver = Normal
+Maximum thread count: 20
+tnom = 27
+temp = 27
+method = modified trap
+Warning: No WPE as none of SCA, SCB, SCC, SC is given and/or SC not positive.
+Warning: LTspice uses BSIM4 version 4.6.1. Your model specified an unrecognized version number: 4.5000e+00
+Warning: No WPE as none of SCA, SCB, SCC, SC is given and/or SC not positive.
+Warning: LTspice uses BSIM4 version 4.6.1. Your model specified an unrecognized version number: 4.5000e+00
+Warning: No WPE as none of SCA, SCB, SCC, SC is given and/or SC not positive.
+Warning: LTspice uses BSIM4 version 4.6.1. Your model specified an unrecognized version number: 4.5000e+00
+Warning: No WPE as none of SCA, SCB, SCC, SC is given and/or SC not positive.
+Warning: LTspice uses BSIM4 version 4.6.1. Your model specified an unrecognized version number: 4.5000e+00
+Warning: No WPE as none of SCA, SCB, SCC, SC is given and/or SC not positive.
+Warning: LTspice uses BSIM4 version 4.6.1. Your model specified an unrecognized version number: 4.5000e+00
+Warning: No WPE as none of SCA, SCB, SCC, SC is given and/or SC not positive.
+Warning: LTspice uses BSIM4 version 4.6.1. Your model specified an unrecognized version number: 4.5000e+00
+Warning:  Acde = 0.0146993 is too small.
+Warning: No WPE as none of SCA, SCB, SCC, SC is given and/or SC not positive.
+Warning: LTspice uses BSIM4 version 4.6.1. Your model specified an unrecognized version number: 4.5000e+00
+Warning:  Acde = 0.0146993 is too small.
+Warning: No WPE as none of SCA, SCB, SCC, SC is given and/or SC not positive.
+Warning: LTspice uses BSIM4 version 4.6.1. Your model specified an unrecognized version number: 4.5000e+00
+Warning:  Acde = 0.0146993 is too small.
+Direct Newton iteration for .op point succeeded.
+Semiconductor Device Operating Points:
+                        --- BSIM4 MOSFETS ---
+Name:      mp8         mp7         mp1         mp2         mp5
+Model: p_11_sprvt  p_11_sprvt  p_11_sprvt  p_11_sprvt  p_11_sprvt
+Id:     -4.69e-04   -4.73e-04   -2.37e-04   -2.37e-04   -7.46e-04
+Vgs:    -3.13e-01   -3.13e-01   -3.50e-01   -3.50e-01   -3.13e-01
+Vds:    -3.13e-01   -3.68e-01   -3.69e-01   -3.68e-01   -8.38e-01
+Vbs:     0.00e+00    0.00e+00    0.00e+00    0.00e+00    0.00e+00
+Vth:    -2.06e-01   -2.06e-01   -2.31e-01   -2.31e-01   -2.11e-01
+Vdsat:  -1.14e-01   -1.14e-01   -1.26e-01   -1.26e-01   -1.11e-01
+Gm:      6.20e-03    6.25e-03    2.84e-03    2.84e-03    9.71e-03
+Gds:     1.97e-04    1.61e-04    9.85e-05    9.86e-05    1.31e-04
+Gmb      5.39e-04    5.46e-04    2.38e-04    2.38e-04    8.80e-04
+Cbd:     1.70e-13    1.62e-13    3.27e-14    3.27e-14    1.80e-13
+Cbs:     2.24e-13    2.21e-13    4.47e-14    4.47e-14    3.12e-13
+
+Name:      mn4         mn3         mn6
+Model: n_11_sprvt  n_11_sprvt  n_11_sprvt
+Id:      2.37e-04    2.37e-04    7.46e-04
+Vgs:     3.63e-01    3.63e-01    3.63e-01
+Vds:     3.63e-01    3.63e-01    2.62e-01
+Vbs:     0.00e+00    0.00e+00    0.00e+00
+Vth:     1.09e-01    1.09e-01    3.39e-01
+Vdsat:   1.55e-01    1.55e-01    7.45e-02
+Gm:      2.51e-03    2.51e-03    1.21e-02
+Gds:     9.43e-05    9.43e-05    1.05e-03
+Gmb      1.51e-04    1.51e-04    1.05e-03
+Cbd:     6.09e-15    6.09e-15    1.86e-14
+Cbs:     7.11e-15    7.11e-15    2.09e-14
+
+
+Total elapsed time: 0.066 seconds.
+
